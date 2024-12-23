@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnjoel061
-- 👀 I’m interested in Web and BlockChain Development
+- 👀 I’m interested in Full Stack and BlockChain Development
 - 🌱 I’m currently learning React
 - 💞️ I’m a Computer Science Student
 - 💛 I love programming and I'm so passionate to build software that solve people problems.
