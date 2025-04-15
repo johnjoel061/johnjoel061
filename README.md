@@ -29,7 +29,7 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 
 📬 Get in Touch
 - 📧 Email: [alfabetejohnjoel@gmail.com](mailto:alfabetejohnjoel@gmail.com)  
-- 📱 TikTok: @ (insert your TikTok handle if you'd like)
+- 📱 TikTok: @joeldev10
 
 
 
