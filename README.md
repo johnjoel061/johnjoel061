@@ -13,13 +13,13 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 - Frontend: React.js, Next.js, Redux
 - Backend: Node.js, Express.js
 - Databases: MongoDB, MySQL
-- UI: Tailwind CSS, Bootstrap, DaisyUI
+- UI: Tailwind CSS, Bootstrap, Antd
 
 🛠 My Current Tech Stack:
 
 🖥️ Frontend
 - Languages: JavaScript  
-- Frameworks & Libraries: React.js • Next.js • Redux  
+- Frameworks & Libraries: React.js • Next.js   
 - Styling: Tailwind CSS • Bootstrap • DaisyUI  
 
 🗄️ Backend
