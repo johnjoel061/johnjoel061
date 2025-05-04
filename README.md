@@ -20,7 +20,7 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 🖥️ Frontend
 - Languages: JavaScript  
 - Frameworks & Libraries: React.js • Next.js   
-- Styling: Tailwind CSS • Bootstrap • DaisyUI  
+- Styling: Tailwind CSS • Bootstrap • AntDesign  
 
 🗄️ Backend
 - Languages: JavaScript • TypeScript  
