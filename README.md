@@ -1,7 +1,8 @@
-👋 Hey there! I'm John Joel Alfabete  
-A Full-Stack Developer based in the Philippines 🇵🇭
+# 👋 Hey there! I'm John Joel Alfabete 
 
-I’m a passionate Full-Stack Developer with **1 year of hands-on experience** building responsive, full-featured web applications using the **JavaScript ecosystem**.
+**`A Full-Stack Developer based in the Philippines 🇵🇭`**
+
+I’m a passionate Full-Stack Developer with **1 year of hands-on experience** building responsive, full-featured web applications using the **JavaScript ecosystem**. I also do content creation on Tiktok to share my journey and improvment on my software development career.
 
 
 🚀 What I'm Currently Doing:
