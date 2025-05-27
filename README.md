@@ -11,8 +11,7 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 </p>
 
 <p align="left">
-- 📧 Email: [alfabetejohnjoel@gmail.com](mailto:alfabetejohnjoel@gmail.com)  
-- 📱 TikTok: @joeldev10
+- 📧 Email: [alfabetejohnjoel@gmail.com](mailto:alfabetejohnjoel@gmail.com) 
 </p>
 
 
