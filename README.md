@@ -9,8 +9,12 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 <a href="https://linkedin.com/in/www.linkedin.com/in/john-joel-alfabete-89a117283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/john-joel-alfabete-89a117283" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/johnjoel.alfabete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/johnjoel.alfabete" height="30" width="40" /></a>
 </p>
+
+<p align="left">
 - 📧 Email: [alfabetejohnjoel@gmail.com](mailto:alfabetejohnjoel@gmail.com)  
 - 📱 TikTok: @joeldev10
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,6 +25,7 @@ I’m a passionate Full-Stack Developer with **1 year of hands-on experience** b
 - 🌱 Writing modern JavaScript and TypeScript
 - 🛠️ Building full-stack applications with React, Next.js, Express, and MongoDB/MySQL
 - 📲 Sharing content & insights on **TikTok** (come say hi!)
+
 
 💬 What I Love to Talk About:
 - Frontend: React.js, Next.js, Redux
